@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './ejercicio-03.component.css'
 })
 export class Ejercicio03Component {
-    user='Esther Gonzalez'
+    user='Lorena Citlalli Galindo Gonzalez'
 }

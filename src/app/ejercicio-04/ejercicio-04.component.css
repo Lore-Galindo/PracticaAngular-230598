@@ -1,5 +1,5 @@
 .message {
-    font-family: Arial, sans-serif;
+    font-family:  Zapfino, Script;
     font-size: 18px;
     padding: 10px;
     border-radius: 5px;
@@ -8,8 +8,8 @@
 }
 
 .welcome {
-    background-color: #d4edda;
-    color: #155724;
+    background-color: #e8d4ed;
+    color: #251557;
 }
 
 .login-prompt {

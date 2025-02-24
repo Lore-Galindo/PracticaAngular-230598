@@ -1,22 +1,22 @@
   /* Estilo para los párrafos */
   p {
-    font-family: 'Arial', sans-serif;
-    font-size: 18px;
-    padding: 10px;
-    margin: 8px 0;
-    border-radius: 5px;
+    font-family: 'American Typewriter', Monospace;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 20px;
 }
 
 /* Estilo para los nombres de los sistemas operativos */
 .os-name {
-    background-color: #feb3ec;
+    background-color: #b3defe;
     color: #a230fa;
-    border-left: 5px solid #ed4bf3;
+    border-left: 5px solid #f34b9c;
 }
 
 /* Estilo para los nombres de los usuarios */
 .user-name {
-    background-color: #f0f8ff;
+    background-color: #f0f5ff;
     color: #333;
     border-left: 5px solid #007bff;
 }

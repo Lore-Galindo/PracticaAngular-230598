@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './ejercicio-02.component.css'
 })
 export class Ejercicio02Component {
-  city='Mecapalapa, Pantepec, Puebla';
+  city='Las Pilas,Xicotepec';
 
 }

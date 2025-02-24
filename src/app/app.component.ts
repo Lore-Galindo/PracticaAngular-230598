@@ -8,6 +8,8 @@ import { Ejercicio05Component } from "./ejercicio-05/ejercicio-05.component";
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatTooltipModule } from '@angular/material/tooltip';
+//import { ToolbarComponent } from './components/toolbar/toolbar.component';
+
 
 @Component({
   selector: 'app-root',
@@ -17,5 +19,5 @@ import { MatTooltipModule } from '@angular/material/tooltip';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'ManualEjercicios_Angular_230297';
+  title = 'ManualEjercicios_Angular_230598-LCGG';
 }
